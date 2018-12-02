@@ -15,18 +15,18 @@ TagManager:
   - 
   - 
   - 
+  - Bounds
   - 
   - 
   - 
   - 
+  - Ship
+  - Enemy
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PlayerShot
+  - EnemyShot
   - 
   - 
   - 
